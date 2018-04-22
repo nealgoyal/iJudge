@@ -76,7 +76,7 @@
         <!--Logged View Controller-->
         <scene sceneID="dqE-Nu-UND">
             <objects>
-                <viewController id="Ndd-IP-plI" customClass="LoggedViewController" customModule="iJudge" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Logged" id="Ndd-IP-plI" customClass="LoggedViewController" customModule="iJudge" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ems-ha-MIC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -195,6 +195,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="rfu-Ax-ST1"/>
+        <segue reference="ZeT-RK-bl2"/>
     </inferredMetricsTieBreakers>
 </document>
