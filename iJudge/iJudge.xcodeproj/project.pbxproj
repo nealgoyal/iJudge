@@ -18,6 +18,7 @@
 		79888F0E208CA3630095BE21 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79888F0D208CA3630095BE21 /* LoginViewController.swift */; };
 		79888F10208CA36C0095BE21 /* LoggedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79888F0F208CA36C0095BE21 /* LoggedViewController.swift */; };
 		79888F12208CA6750095BE21 /* Camera.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79888F11208CA6750095BE21 /* Camera.storyboard */; };
+		79888F14208CA7480095BE21 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79888F13208CA7480095BE21 /* CameraViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		79888F0D208CA3630095BE21 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		79888F0F208CA36C0095BE21 /* LoggedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoggedViewController.swift; sourceTree = "<group>"; };
 		79888F11208CA6750095BE21 /* Camera.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Camera.storyboard; sourceTree = "<group>"; };
+		79888F13208CA7480095BE21 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		EF7662CD7E9DAA6D44422F8F /* Pods_iJudge.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iJudge.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -99,6 +101,7 @@
 				79888F0D208CA3630095BE21 /* LoginViewController.swift */,
 				79888F0F208CA36C0095BE21 /* LoggedViewController.swift */,
 				79888F11208CA6750095BE21 /* Camera.storyboard */,
+				79888F13208CA7480095BE21 /* CameraViewController.swift */,
 			);
 			path = iJudge;
 			sourceTree = "<group>";
@@ -246,6 +249,7 @@
 				79888F10208CA36C0095BE21 /* LoggedViewController.swift in Sources */,
 				79888EFA208CA0950095BE21 /* ViewController.swift in Sources */,
 				79888EF8208CA0950095BE21 /* AppDelegate.swift in Sources */,
+				79888F14208CA7480095BE21 /* CameraViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
