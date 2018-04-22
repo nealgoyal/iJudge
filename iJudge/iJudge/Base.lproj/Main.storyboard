@@ -141,7 +141,7 @@
         <!--Login View Controller-->
         <scene sceneID="Hxb-6v-hYn">
             <objects>
-                <viewController id="u1q-Fj-n20" customClass="LoginViewController" customModule="iJudge" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="Login" id="u1q-Fj-n20" customClass="LoginViewController" customModule="iJudge" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="WHE-29-M4m">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -195,6 +195,6 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="ZeT-RK-bl2"/>
+        <segue reference="f7U-rp-R1u"/>
     </inferredMetricsTieBreakers>
 </document>
